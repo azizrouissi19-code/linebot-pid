@@ -1,0 +1,11 @@
+# Build / IDE
+build/
+.pio/
+*.bin
+*.elf
+node_modules/
+venv/
+__pycache__/
+.vscode/
+*.log
+secrets.h
